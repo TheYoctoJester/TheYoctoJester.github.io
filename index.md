@@ -29,3 +29,5 @@ If you are interested, I'm sure we can find a way to work together. If it is som
 If you hire me, be aware that I do **NOT** offer a classic trainer/speaker experience. You asked a Jester after all, right?
 
 For a standard format training, I will happily recommend somebody I see fit, though.
+
+# [Contact me](contact.md)
