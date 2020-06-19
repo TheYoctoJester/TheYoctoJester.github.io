@@ -15,7 +15,7 @@ There was good discussion about these topics in particular:
 
 ## Recording
 
-TBD
+[YouTube](https://youtu.be/ThTl4FItfMI)
 
 ## External resources
 
