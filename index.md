@@ -12,4 +12,6 @@ TBD....
 
 # [Personal jesting?](personal.md)
 
+# [Disclaimer!](disclaimer.md)
+
 # [Contact me](contact.md)
