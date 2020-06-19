@@ -8,7 +8,7 @@
 
 ## Past sessions
 
-TBD....
+[May 28th, 2020 - Project setup and kas](session_12/main.md)
 
 # [Personal jesting?](personal.md)
 
