@@ -6,12 +6,12 @@ Topic: Project setup and kas
 
 ## Notes from session
 
-TBD
+nothing noteworthy
 
 ## Recording
 
-{% include youtubePlayer.html id=KJHJlOtTdaE %}
+[YouTube](https://youtu.be/KJHJlOtTdaE)
 
 ## External resources
 
-TBD
+[kas on GitHub](https://github.com/siemens/kas)
