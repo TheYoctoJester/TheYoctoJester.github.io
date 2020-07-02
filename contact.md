@@ -18,7 +18,7 @@
 
 ## Old-School-y
 
-Email: jhka.embedded AT gmail.com
+Email: jester@theyoctojester.info
 
 IRC: LetoThe2nd on freenode.net
 
