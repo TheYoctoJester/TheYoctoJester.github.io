@@ -6,6 +6,8 @@ TBA
 
 ## Past sessions
 
+[July 24th, 2020 - Variables and assigments](session_14/main.md)
+
 [June 23th, 2020 - Building a kernel module](session_13/main.md)
 
 [June 19th, 2020 - Getting started (Dunfell edition)](session_1_v2/main.md)
