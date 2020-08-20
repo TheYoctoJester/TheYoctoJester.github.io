@@ -6,4 +6,14 @@ Topic: Running applications in the context of a yocto-generated distribution, wi
 
 ## Session
 
-https://www.twitch.tv/theyoctojester
+### Live at
+
+[Twitch](https://www.twitch.tv/theyoctojester)
+
+### LinkedIn Event
+
+[Yocto Livecoding - Running applications](https://www.linkedin.com/events/yoctolivecoding-runningapplications)
+
+### OE Calendar
+
+[Yocto Livecoding Session 15](https://calendar.google.com/event?action=TEMPLATE&tmeid=NHFybDJyanY5cG1lMTc4N3RsYzY5ZHRyNHEgZ3N1Nm01Zzl1dGw0ZWxramxjdDE0NGloa29AZw&tmsrc=gsu6m5g9utl4elkjlct144ihko%40group.calendar.google.com)
