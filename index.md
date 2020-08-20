@@ -2,7 +2,7 @@
 
 ## Upcoming sessions
 
-TBA
+[August 27th, 2020 - Running applications](session_15/main.md)
 
 ## Past sessions
 
