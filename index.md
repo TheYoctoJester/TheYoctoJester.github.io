@@ -2,9 +2,11 @@
 
 ## Upcoming sessions
 
-[August 27th, 2020 - Running applications](session_15/main.md)
+TBD
 
 ## Past sessions
+
+[August 27th, 2020 - Running applications](session_15/main.md)
 
 [July 24th, 2020 - Variables and assigments](session_14/main.md)
 
