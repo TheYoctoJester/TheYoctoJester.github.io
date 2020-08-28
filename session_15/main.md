@@ -8,7 +8,7 @@ Topic: Running applications in the context of a yocto-generated distribution, wi
 
 JPEW: the init system can also be set through the [INIT_MANAGER](https://www.yoctoproject.org/docs/3.1/ref-manual/ref-manual.html#migration-3.0-init-system-selection) variable
 
-Generally, this session and layer try to adhere to real life best pracises instead of quick demos:
+Generally, this session and layer try to adhere to real life best practises instead of quick demos:
 
 - a distinct DISTRO configuration is being used
 - a custom image for the mentioned application is created
