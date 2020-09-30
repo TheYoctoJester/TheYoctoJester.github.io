@@ -26,10 +26,10 @@ IRC: LetoThe2nd on freenode.net
 
 Yes, I am German, hence I need this. If you abuse this information, not only my personal wrath will descend you in form of bad karma for all eternity, also your beers shall all taste like piss and your compilers shall give errors to no end. **You have been warned**.
 
-Josef Holzmayr-Khosh Amoz
+Josef Holzmayr jun.
 
-Ambergerweg 7
+Lindacher Straße 1
 
-85276 Pfaffenhofen
+86558 Weichenried
 
 There is no further, specific disclaimer as I still believe in [Justice (for all)](https://easyrechtssicher.de/disclaimer) and that people who actually made it here are friendly.
