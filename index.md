@@ -2,7 +2,7 @@
 
 ## Upcoming sessions
 
-TBD
+[October 20th, 2020 - Surprise Topic](session_16/main.md)
 
 ## Past sessions
 
