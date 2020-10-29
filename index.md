@@ -6,7 +6,7 @@ TBD
 
 ## Past sessions
 
-[October 20th, 2020 - Surprise Topic](session_16/main.md)
+[October 20th, 2020 - Surprise Topic: running on WSLv2](session_16/main.md)
 
 [August 27th, 2020 - Running applications](session_15/main.md)
 
