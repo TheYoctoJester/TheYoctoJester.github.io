@@ -13,7 +13,7 @@ Topic: To celebrate the 0x10th live coding session, I am preparing a particularl
 
 ### Recording at
 
-TDB
+[Youtube](https://youtu.be/R8HRqgNXlcM)
 
 ### LinkedIn Event
 
