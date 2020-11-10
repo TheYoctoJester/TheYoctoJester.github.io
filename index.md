@@ -2,7 +2,7 @@
 
 ## Upcoming sessions
 
-TBD
+[November 24th, 2020 - Recipes Reloaded](session_17/main.md)
 
 ## Past sessions
 
