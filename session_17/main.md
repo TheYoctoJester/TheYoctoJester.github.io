@@ -10,7 +10,7 @@ Topic: Recipes are an integral part of the whole Yocto/OpenEmbedded technology, 
 
 [Youtube](https://youtu.be/559CF3gYCJA)
 
-[Chat](session_17/chatlog.txt)
+[Chat](chatlog.txt)
 
 ### LinkedIn Event
 
