@@ -1,0 +1,56 @@
+[0:12:28] <mgFray> HeyGuys mgfrayTux
+[0:15:09] <TheYoctoJester> howdy @mgFray
+[0:15:27] <Nepster375> First time I'm live :)
+[0:16:01] <mgFray> unfortunately it's only 10am here, a bit early for a proper drink.. :)
+[0:21:39] <mgFray> "grahpic"(sic) was spelled wrong..
+[0:24:57] <gvkalra> what if I want to install all packages in a recipe? Do i still need to explicitly write each package name in IMAGE_INSTAL?
+[0:26:01] <gvkalra> Send them over. haha! 😄
+[0:26:09] <mgFray> mgfrayNoBugs
+[0:26:13] <mgFray> best one I got.. ;)
+[0:27:43] <mgFray> LuvGift <--- I might have chocolates..
+[0:31:18] <mgFray> FYI, much of the time overrides can be done in a distribution configuration file. This allows you to modify many packages defaults in one place w/o having to write bbappends. PACKAGECONFIGS_pn-<recipe> = "Your distro configs here"
+[0:32:07] <mgFray> leading space?
+[0:32:58] <mgFray> mgfrayNoBugs
+[0:33:28] <mgFray> it's from a Twitch charity thing from a few years ago
+[0:33:31] <Nepster375> I'm confused.. Why did you drink water instead of beer?
+[0:33:35] <mgFray> winter time here, so I ue a snowflake.. :)
+[0:33:42] <mgFray> HSCheers here have a beer
+[0:35:01] <mgFray> Ahh ha, I made the same mistake above.. ya no 'S'
+[0:35:24] <mgFray> (everyone can haave a beer.. HS Cheers remove the space)
+[0:36:09] <gvkalra> beer time!
+[0:36:27] <mgFray> HSCheers
+[0:39:23] <Nepster375> Why do we have to prepend "libanswer" with "pn-"?
+[0:40:33] <mgFray> there is a special override for recipes. The format of the override is 'pn-<recipe>'. So you can override any variable in a recipe using this.. PACKAGECONFIG is this example, but it could be other things
+[0:40:39] <gvkalra> If there is a policy in .bb (e.g. use boost), and also in .conf (e.g., dont use boost)... Both with = assignment.... Which will be the priority?
+[0:41:47] <mgFray> The bitbake manual has some explanation of what an override is in the variables section. This might be helpful (or might not be -- some of the variable assignment stuff is confusing)
+[0:42:01] <mgFray> Yes, last assignment is used
+[0:42:13] <Nepster375> To answer your question: I just joined the german Discord server and got the announcement there (and in the IRC). As I'm quite new, I wasn't involved in yocto before..
+[0:42:30] <mgFray> teh distro file is loaded early, the recipe file is loaded late.. so "=" in the recipe would be 'last'.. but ?= says 'if not set, use this'
+[0:43:05] <gvkalra> thanks @mgfray ~
+[0:45:29] <mgFray> It's about variable scope. There is a global variable scope, and a recipe scope (that inherits from the global scope). So a recipeA variable scope, can't affect recipeB variable scope.
+[0:47:22] <mgFray> These helpers are incredibly powerful
+[0:48:36] <gvkalra> poweroff
+[0:48:40] <mgFray> still in QEMU
+[0:49:28] <mgFray> according to twitch you are 20 seconds into my future.. ;)
+[0:49:42] <cobequidd> ctrl-a x, no need to be polite to qemu ;)
+[0:50:25] <gvkalra> Mr. cobequidd ... Be polite 🤣
+[0:51:42] <mgFray> ctrl-a x is equivalent to pigeon32Cool pigeon32Gun mgfrayTux
+[0:52:02] <TheYoctoJester> https://git.yoctoproject.org/cgit/cgit.cgi/poky/tree/bitbake/lib/bb/utils.py#n970
+[0:52:22] <Nepster375> isn't it EXTRA_OEMAKE without the "C"?
+[0:53:00] <gvkalra> Thanks. I am from S. Korea. It's 1.30am here. Usually I watch your videos later. 😄
+[0:53:19] <Nepster375> K, thanks :)
+[0:53:20] <mgFray> wow, dedication (or insomnia).. thanks for joining!
+[0:55:26] <gvkalra> insomnia 😜
+[0:56:29] <mgFray> HSCheers
+[0:57:01] <gvkalra> 💸
+[0:57:15] <mgFray> Ohhh.. nice.. I'm working on multiconfig right now..
+[0:57:22] <mgFray> they definitely need a session
+[0:58:03] <mgFray> System is the top level, then multiple implementations are multiconfig..
+[0:58:17] <mgFray> this would allow the System to construct the image, including things 'above' linux, like firmware, u-boot, etc
+[0:58:43] <mgFray> might have been bruce.. :)
+[0:59:29] <gvkalra> Ilibanswer answers the mysteries of Yocto
+[1:01:11] <mgFray> oe-pkgdata-util is somewhat new right? Dunfell or Gatesgarth?
+[1:02:10] <mgFray> someone on IRC said it's much older..
+[1:02:32] <mgFray> ahh it must be browser that I'm thinking of that is new..
+[1:03:25] <gvkalra> 🍻 Thank You~
+[1:03:38] <mgFray> thanks for the stream! Have a good day!

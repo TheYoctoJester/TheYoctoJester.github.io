@@ -2,9 +2,11 @@
 
 ## Upcoming sessions
 
-[November 24th, 2020 - Recipes Reloaded](session_17/main.md)
+TBD
 
 ## Past sessions
+
+[November 24th, 2020 - Recipes Reloaded](session_17/main.md)
 
 [October 20th, 2020 - Surprise Topic: running on WSLv2](session_16/main.md)
 
