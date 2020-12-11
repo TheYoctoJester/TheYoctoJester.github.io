@@ -2,7 +2,7 @@
 
 ## Upcoming sessions
 
-TBD
+[21sta Dezemba 2020 - Ofanga (Alpenland Edition)](session_1_ae/main.md)
 
 ## Past sessions
 
