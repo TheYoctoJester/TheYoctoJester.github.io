@@ -2,11 +2,13 @@
 
 ## Upcoming sessions
 
+TBD
+
+## Past sessions
+
 [December 22nd, 2020 - Multiconfigs](session_18/main.md)
 
 [21sta Dezemba 2020 - Ofanga (Alpenland Edition)](session_1_ae/main.md)
-
-## Past sessions
 
 [November 24th, 2020 - Recipes Reloaded](session_17/main.md)
 
