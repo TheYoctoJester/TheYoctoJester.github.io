@@ -2,7 +2,7 @@
 
 ## Upcoming sessions
 
-TBD
+[July 16th, 2021 - PTest / Testimage](session_19/main.md)
 
 ## Past sessions
 
