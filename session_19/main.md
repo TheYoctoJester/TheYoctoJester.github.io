@@ -1,6 +1,6 @@
 # Live Coding Session 19 - Ptest / Testimage
 
-When: Friday July 16th, 2020 - 2:00 PM Europe/Berlin
+When: Friday July 16th, 2021 - 2:00 PM Europe/Berlin
 
 Topic: Back from the 21H1 hiatus, we will add ptest capabilities to a recipe and use this in a testimage.
 
