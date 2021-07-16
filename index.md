@@ -2,9 +2,11 @@
 
 ## Upcoming sessions
 
-[July 16th, 2021 - PTest / Testimage](session_19/main.md)
+TBD
 
 ## Past sessions
+
+[July 16th, 2021 - PTest](session_19/main.md)
 
 [December 22nd, 2020 - Multiconfigs](session_18/main.md)
 
