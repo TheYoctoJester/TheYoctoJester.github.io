@@ -2,7 +2,7 @@
 
 ## Upcoming sessions
 
-TBD
+[September 14th, 2021 - SPECIAL: Linux Foundation Mentorship Session](session_lfm/main.md)
 
 ## Past sessions
 
