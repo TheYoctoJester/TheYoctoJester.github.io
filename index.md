@@ -4,6 +4,8 @@
 
 [September 14th, 2021 - SPECIAL: Linux Foundation Mentorship Session](session_lfm/main.md)
 
+[September 2nd, 2021 - bare metal](session_20/main.md)
+
 ## Past sessions
 
 [July 16th, 2021 - PTest](session_19/main.md)
