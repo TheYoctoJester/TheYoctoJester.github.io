@@ -7,3 +7,8 @@ Topic: Instead of a linux distribution, this time we will create a bare metal bu
 ### LinkedIn Event
 
 [Yocto Livecoding - bare metal](https://www.linkedin.com/events/yoctolivecoding-baremetal6835840902821380096/)
+
+
+### Google Calendar
+
+[Yocto Livecoding - bare metal](https://calendar.google.com/event?action=TEMPLATE&tmeid=NnZuZnNrODg2ZjJmdHI3ZWxiZTJiZGozOWogamVzdGVyQHRoZXlvY3RvamVzdGVyLmluZm8&tmsrc=jester%40theyoctojester.info)
