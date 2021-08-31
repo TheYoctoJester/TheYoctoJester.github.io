@@ -14,6 +14,10 @@ The session will begin with an overview by Josef Holzmayr and Nicolas Dechesne (
 
 [It’s Not Just About Embedded! The Yocto Project](https://www.linkedin.com/events/it-snotjustaboutembedded-theyoc6831463633009160192/)
 
+### Google Calendar
+
+[It's Not Just About Embedded! The Yocto Project](https://calendar.google.com/event?action=TEMPLATE&tmeid=MnNzMTM0bmcxb2FmbDV0cDI3ZWV1ZWFkMW4gamVzdGVyQHRoZXlvY3RvamVzdGVyLmluZm8&tmsrc=jester%40theyoctojester.info)
+
 ## External resources
 
 [Linux Foudation Mentorship Session](https://linuxfoundation.org/webinars/its-not-just-about-embedded-the-yocto-project/)
