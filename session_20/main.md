@@ -19,6 +19,10 @@ Usecases for doing this in Yocto might be:
 - mitigating development setups that rely on a specific toolchain and configuration to be present, sometimes even conflicting. If you use the Yocto approach, the build process will in itself take care of generating and using the correct tooling.
 - in multistage/multiconfig builds, firmware blobs can be generated and piped directly into subsequent (Linux) builds that can put them on coprocessors. This is highly platform specific and requires additional handling, though.
 
+## Recording
+
+[YouTube](https://youtu.be/DQ-TTMUstNw)
+
 ## External Resources
 
 [baremetal-helloworld.bb (on master)](https://git.yoctoproject.org/cgit/cgit.cgi/poky/tree/meta-skeleton/recipes-baremetal/baremetal-examples/baremetal-helloworld_git.bb)
