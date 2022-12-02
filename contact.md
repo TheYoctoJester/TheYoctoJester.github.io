@@ -4,7 +4,7 @@
 
 [Twitter](https://twitter.com/TheYoctoJester)
 
-[Linked In](https://www.linkedin.com/in/josef-holzmayr-khosh-amoz-a5082219a)
+[Linked In](https://www.linkedin.com/in/josef-holzmayr/)
 
 [Github](https://github.com/TheYoctoJester)
 
