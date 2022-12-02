@@ -8,6 +8,8 @@
 
 [Github](https://github.com/TheYoctoJester)
 
+<a rel="me" href="https://fosstodon.org/@theyoctojester">Mastodon</a>
+
 ## Insanely
 
 [Instagram](https://www.instagram.com/theyoctojester/)
