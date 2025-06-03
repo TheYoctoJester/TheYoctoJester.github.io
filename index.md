@@ -1,3 +1,8 @@
+# Hi, I'm Josef
+
+![Speaker Pic Josef Holzmayr](/images/Speaker_Pic_25_small.png | width=300)
+
+
 # [Livecoding](livecoding.md)
 
 # Articles / Rants / Notes to my future self
