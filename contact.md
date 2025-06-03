@@ -2,13 +2,11 @@
 
 ## Sanely
 
-[Twitter](https://twitter.com/TheYoctoJester)
-
 [Linked In](https://www.linkedin.com/in/josef-holzmayr/)
 
-[Github](https://github.com/TheYoctoJester)
-
 <a rel="me" href="https://fosstodon.org/@theyoctojester">Mastodon</a>
+
+[Github](https://github.com/TheYoctoJester)
 
 ## Insanely
 
@@ -16,13 +14,17 @@
 
 [Twitch](https://www.twitch.tv/letoatreidesthe2nd)
 
-[TikTok](https://www.tiktok.com/@theyoctojester)
-
 ## Old-School-y
 
 Email: jester@theyoctojester.info
 
 IRC: LetoThe2nd on freenode.net
+
+## Not at all - defunct profiles, do not expect an answer
+
+[Twitter](https://twitter.com/TheYoctoJester)
+
+[TikTok](https://www.tiktok.com/@theyoctojester)
 
 ## Impressum
 
