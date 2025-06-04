@@ -1,6 +1,6 @@
 # Hi, I'm Josef
 
-![Speaker Pic Josef Holzmayr](/images/Speaker_Pic_25_small.png | width=300)
+![Speaker Pic Josef Holzmayr](/images/Speaker_Pic_25_small.png)
 
 
 # [Livecoding](livecoding.md)
