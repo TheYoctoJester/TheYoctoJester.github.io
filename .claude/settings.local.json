@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git commit:*)",
+      "WebFetch(domain:theyoctojester.info)"
+    ],
+    "deny": []
+  }
+}
