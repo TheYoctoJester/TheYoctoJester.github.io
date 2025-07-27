@@ -1,0 +1,74 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Add spacing between major sections
+section {
+  margin-bottom: 3em;
+}
+
+// Improve header spacing
+h1 {
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+// Add visual separation for the chat booking section
+h1:first-of-type {
+  margin-top: 1em;
+}
+
+// Improve link visibility
+a {
+  text-decoration: underline;
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+// Add some breathing room to paragraphs
+p {
+  line-height: 1.6;
+  margin-bottom: 1em;
+}
+
+// Style the booking link to stand out more
+a[href*="calendar.app.google"] {
+  display: inline-block;
+  padding: 0.5em 1em;
+  background-color: #0366d6;
+  color: white !important;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 0.5em 0;
+  
+  &:hover {
+    background-color: #0256c7;
+  }
+}
+
+// Add subtle borders between major sections
+h1 {
+  padding-top: 1.5em;
+  border-top: 1px solid #e1e4e8;
+  
+  &:first-of-type {
+    border-top: none;
+    padding-top: 0;
+  }
+}
+
+// Improve list spacing
+ul, ol {
+  margin-bottom: 1.5em;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
