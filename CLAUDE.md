@@ -38,7 +38,8 @@ The site will be available at `http://localhost:4000`.
 - `contact.md` - Contact information and social media links
 - `personal.md` - Personal content section
 - `articles/` - Technical articles and blog posts
-- `session_*/` - Individual livecoding session documentation with companion resources
+- `livecoding/` - Contains all livecoding session directories
+  - `session_*/` - Individual livecoding session documentation with companion resources
 - `presentations/` - Presentation materials and associated assets
 - `images/` - Static image assets
 - `context/` - Contains documents, sources, and examples relevant for operations on page content (read these for context when needed, but don't memorize)
@@ -47,7 +48,7 @@ The site will be available at `http://localhost:4000`.
 ## Content Organization
 
 ### Livecoding Sessions
-Each session is organized in its own directory (`session_*`) containing:
+Each session is organized in its own directory under `livecoding/` (`livecoding/session_*`) containing:
 - `main.md` - Session notes, links to recordings, and external resources
 - Additional assets as needed
 
