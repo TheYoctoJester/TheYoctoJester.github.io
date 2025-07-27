@@ -1,5 +1,11 @@
 # You can reach me
 
+## Want to chat?
+
+**[Book a 30-minute slot →](https://calendar.app.google/oEmQWH2KFH2zRhuu8)**
+
+Let's talk about Yocto, embedded Linux, OTA, or whatever's on your mind.
+
 ## Sanely
 
 [Linked In](https://www.linkedin.com/in/josef-holzmayr/)
