@@ -7,6 +7,8 @@
 
 # Articles / Rants / Notes to my future self
 
+[Dedicated Yocto Livecoding Sessions](articles/dedicated_livecoding.md)
+
 [Happy 10th anniversay, Yocto Project!](articles/10th_anniversary.md)
 
 # [Personal jesting?](personal.md)
