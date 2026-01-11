@@ -16,6 +16,8 @@ Check out my livecoding sessions where I dive into Yocto Project topics.
 
 ## Articles / Rants / Notes to my future self
 
+- [Extracting Text from Scanned PDFs with Marker](articles/marker_pdf_ocr.md)
+- [Managing GPG Keys for GitHub](articles/gpg_key_management.md)
 - [Dedicated Yocto Livecoding Sessions](articles/dedicated_livecoding.md)
 - [Happy 10th anniversary, Yocto Project!](articles/10th_anniversary.md)
 
